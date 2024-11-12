@@ -1,0 +1,8 @@
+Model Information:
+* title:	Kitchen Bot - Kirby: Return to Dreamland
+* source:	https://sketchfab.com/3d-models/kitchen-bot-kirby-return-to-dreamland-099b220b872048baa8f8dad2e2782649
+* author:	Derek Hoffmann (https://sketchfab.com/DerekHoffmann)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
